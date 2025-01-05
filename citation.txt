@@ -1,0 +1,6 @@
+@article{REPO309,
+    author = "Zheng, Zhi and Zhou, Changliang and Xialiang, Tong and Yuan, Mingxuan and Wang, Zhenkun",
+    journal = "arXiv preprint arXiv:2407.00312",
+    title = "{UDC: A unified neural divide-and-conquer framework for large-scale combinatorial optimization problems}",
+    year = "2024"
+}
